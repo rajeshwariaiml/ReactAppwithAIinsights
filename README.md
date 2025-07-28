@@ -25,7 +25,15 @@ This is a modern, responsive analytics dashboard built with **React** and **Tail
 
 ---
 
-## 📸 Screenshots
+ How to Run the Project Locally
+Clone the repository
+git clone https://github.com/rajeshwariaiml/ReactAppwithAIinsights.git
+cd ReactAppwithAIinsights
+Install dependencies
+npm install
+Start the development server
 
-> _Add screenshots here if possible using markdown:_
+npm start
+Open your browser and visit
+http://localhost:3000
 
