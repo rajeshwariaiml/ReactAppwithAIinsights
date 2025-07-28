@@ -37,3 +37,8 @@ npm start
 Open your browser and visit
 http://localhost:3000
 
+🔗 Live Demo URL: This project is deployed on Vercel and can be accessed here:
+https://react-appwith-a-iinsights-7rbgmwlyp.vercel.app
+
+
+
